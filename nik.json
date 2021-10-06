@@ -3,5 +3,10 @@
 "last_name": "Nikolaeva",
 "age": 39,
 "pets": "2cats",
-"salary": "1000dollars"
+"salary": "1000dollars",
+"movie": "Charodei",
+"tv_series": "Vosmidesyatyie",
+"food": "pizza",
+"season": "summer",
+"country": "Australia"
 }
